@@ -1,4 +1,4 @@
-# File-SystemI-In-Fuse
+# File-System-In-Fuse
 
 The file system has the following characteristics:
 
